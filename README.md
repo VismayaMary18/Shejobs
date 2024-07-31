@@ -1,3 +1,3 @@
 #SheJobs
-![Screenshot Description](screenshots/screenshot1.png)
-![Screenshot Description](screenshots/screenshot2.png)
+![HOME PAGE](ss1.png)
+![HOME PAGE](ss2.png)
